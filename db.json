@@ -1,11 +1,231 @@
 {
 "users": [
-  
     {
       "id": "x",
-      "pass": "1234",
-      "value": 22.530864197530864,
-      "weight": "73"
+      "value": 21.91,
+      "weight": "74"
+    }
+  ],
+  "LV": [
+    {
+      "id": "x",
+      "SquatLv": 4,
+      "PullLv": 4,
+      "PushLv": 4,
+      "CoreLv": 4
+    }
+  ],
+  "LV1": [
+    {
+      "name": "ARIN",
+      "Squat": 22,
+      "Pull": 6,
+      "Push": 21,
+      "Core": 20,
+      "id": 1
+    },
+    {
+      "name": "NIN",
+      "Squat": 30,
+      "Pull": 1,
+      "Push": 20,
+      "Core": 30,
+      "id": 2
+    },
+    {
+      "name": "KORN",
+      "Squat": 20,
+      "Pull": 1,
+      "Push": 20,
+      "Core": 20,
+      "id": 3
+    },
+    {
+      "name": "NEAR",
+      "Squat": 50,
+      "Pull": 10,
+      "Push": 50,
+      "Core": 50,
+      "id": 4
+    },
+    {
+      "name": "TOOK",
+      "Squat": 22,
+      "Pull": 2,
+      "Push": 6,
+      "Core": 18,
+      "id": 5
+    },
+    {
+      "name": "WINYU",
+      "Squat": 23,
+      "Pull": 12,
+      "Push": 28,
+      "Core": 21,
+      "id": 6
+    },
+    {
+      "name": "TALN",
+      "Squat": 14,
+      "Pull": 1,
+      "Push": 2,
+      "Core": 11,
+      "id": 7
+    },
+    {
+      "name": "ARIN",
+      "Squat": 47,
+      "Pull": 12,
+      "Push": 30,
+      "Core": 30,
+      "id": 8
+    },
+    {
+      "name": "ARIN",
+      "Squat": 53,
+      "Pull": 14,
+      "Push": 35,
+      "Core": 34,
+      "id": 9
+    },
+    {
+      "name": "ARIN",
+      "Squat": 61,
+      "Pull": 18,
+      "Push": 39,
+      "Core": 41,
+      "id": 9
+    },
+    {
+      "name": "x",
+      "Squat": 77,
+      "Pull": 25,
+      "Push": 80,
+      "Core": 50,
+      "id": 10
+    },
+    {
+      "name": "x",
+      "Squat": 87,
+      "Pull": 28,
+      "Push": 85,
+      "Core": 51,
+      "id": 11
+    },
+    {
+      "name": "x",
+      "Squat": 90,
+      "Pull": 31,
+      "Push": 87,
+      "Core": 52,
+      "id": 12
+    },
+    {
+      "name": "x",
+      "Squat": 44,
+      "Pull": 44,
+      "Push": 44,
+      "Core": 44,
+      "id": 13
+    }
+  ],
+  "Wo1": [],
+  "Wo": [
+    {
+      "Day": 1,
+      "Quad": "Pistol Squat",
+      "pressing": "Sliding Side-to-Side Push-Up",
+      "Glute": "Jumping Single-Leg Box Squat",
+      "Triceps": "One-Arm Push-Up",
+      "Core": "Standing Rollout",
+      "user": "x",
+      "id": 1
+    },
+    {
+      "Day": 1,
+      "Quad": "Jumping Single-Leg Box Squat",
+      "pressing": "Sliding Side-to-Side Push-Up",
+      "Glute": "Jumping Single-Leg Box Squat",
+      "Triceps": "One-Arm Push-Up",
+      "Core": "Standing Rollout",
+      "user": "x",
+      "id": 2
+    },
+    {
+      "Day": 2,
+      "Pec1": "Sliding Side-to-Side Push-Up",
+      "Pec2": "Sliding Side-to-Side Push-Up",
+      "Shoulders1": "One-Arm Push-Up",
+      "Shoulders2": "One-Arm Push-Up",
+      "Triceps": "Sliding Side-to-Side Push-Up",
+      "user": "x",
+      "id": 3
+    },
+    {
+      "Day": 3,
+      "Hamsting1": "Jumping Single-Leg Box Squat",
+      "Hamsting2": "Jumping Single-Leg Box Squat",
+      "Glute": "Pistol Squat",
+      "Core": "Standing Rollout",
+      "user": "x",
+      "id": 4
+    },
+    {
+      "Day": 4,
+      "Back1": "Side-to-Side Pull-Up",
+      "Back2": "One-Arm Inverted Row",
+      "Back3": "Side-to-Side Pull-Up",
+      "bicep": "Side-to-Side Pull-Up",
+      "user": "x",
+      "id": 5
+    },
+    {
+      "Day": 5,
+      "Back1": "Side-to-Side Pull-Up",
+      "Back2": "One-Arm Inverted Row",
+      "Back3": "Side-to-Side Pull-Up",
+      "bicep": "Side-to-Side Pull-Up",
+      "user": "x",
+      "id": 6
+    },
+    {
+      "Day": 6,
+      "Hamsting1": "Pistol Squat",
+      "Hamsting2": "Pistol Squat",
+      "Glute": "Jumping Single-Leg Box Squat",
+      "Core": "L Sit",
+      "user": "x",
+      "id": 7
+    },
+    {
+      "Day": 7,
+      "Pec1": "Sliding Side-to-Side Push-Up",
+      "Pec2": "One-Arm Push-Up",
+      "Shoulders1": "Wall Handstand Push-up",
+      "Shoulders2": "Sliding Side-to-Side Push-Up",
+      "Triceps": "Sliding Side-to-Side Push-Up",
+      "user": "x",
+      "id": 8
+    },
+    {
+      "Day": 8,
+      "Quad": "Jumping Single-Leg Box Squat",
+      "pressing": "Sliding Side-to-Side Push-Up",
+      "Glute": "Jumping Single-Leg Box Squat",
+      "Triceps": "Wall Handstand Push-up",
+      "Core": "Standing Rollout",
+      "user": "x",
+      "id": 9
+    },
+    {
+      "Day": 8,
+      "Quad": "Jumping Single-Leg Box Squat",
+      "pressing": "One-Arm Push-Up",
+      "Glute": "Pistol Squat",
+      "Triceps": "Wall Handstand Push-up",
+      "Core": "Windshield Wiper",
+      "user": "x",
+      "id": 10
     }
   ]
 }
